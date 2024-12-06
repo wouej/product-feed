@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SHOP>
+  <SHOPITEM>
+    <!-- 产品的唯一标识符 -->
+    <ITEM_ID>49603832414496</ITEM_ID>
+
+    <!-- 产品的准确名称 -->
+    <PRODUCTNAME>WOUEJ Wallbox EV Charging Gun</PRODUCTNAME>
+
+    <!-- 产品的描述 -->
+    <PRODUCT>WOUEJ Wallbox EV Charging Gun</PRODUCT>
+
+    <!-- 产品的详细描述 -->
+    <DESCRIPTION>Vysoce kvalitní nabíjecí pistol pro instalace Wallbox pro elektromobily.</DESCRIPTION>
+
+    <!-- 产品的唯一地址 URL -->
+    <URL>https://wouej.com/products/wouej-wallbox-ev-charging-gun?variant=49603832414496</URL>
+
+    <!-- 产品的主要图片 URL -->
+    <IMGURL>https://wouej.com/cdn/shop/files/Wallbox-EV-charging-gun.jpg?v=1733107710&width=800</IMGURL>
+
+    <!-- 包含增值税的价格 -->
+    <PRICE_VAT>300.00</PRICE_VAT>
+
+    <!-- 产品分类路径 -->
+    <CATEGORYTEXT>Heureka.cz | Auto-moto | Elektromobilita a její příslušenství | Příslušenství pro elektromobily | Nabíječky pro elektromobily</CATEGORYTEXT>
+
+    <!-- 配送信息 -->
+    <DELIVERY_DATE>3-7</DELIVERY_DATE> <!-- 交货期3-7天 -->
+    <DELIVERY>
+      <DELIVERY_ID>STANDARD_SHIPPING</DELIVERY_ID>
+      <DELIVERY_PRICE>0</DELIVERY_PRICE> <!-- 免运费 -->
+      <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD> <!-- 免货到付款费用 -->
+    </DELIVERY>
+
+    <!-- 销售优惠券信息 -->
+    <SALES_VOUCHER>
+      <CODE>WOUEJ-30OFF</CODE> <!-- 优惠码 -->
+      <DESC>30% sleva pomocí kódu WOUEJ-30OFF</DESC> <!-- 优惠说明 -->
+    </SALES_VOUCHER>
+  </SHOPITEM>
+</SHOP>
